@@ -9,31 +9,57 @@ here are the 27 implemented functions:
 Standard Function     | Your Function   | Short Description
 ----------------------------------------------------------
 Add/Sum               | BigLight       | Add two numbers
+
 Subtract              | SmallLight     | Subtract two numbers
+
 Multiply              | MemoryBread    | Multiply two numbers
+
 Divide                | AirCannon      | Division of two number
+
 Modulo                | Remnant        | Remainder of division
+
 Power                 | TurboProp      | Raise to a power
+
 Square Root           | RootGadget     | Calculate square root
+
 Equal To              | MirrorImage    | Check equality
+
 Not Equal To          | Opposite       | Check inequality
+
 Greater Than          | Gian           | Check if greater than
+
 Less Than             | Nobita         | Check if less than
+
 Greater or Equal      | BigGian        | Check if greater or equal
+
 Less or Equal         | SmallNobita    | Check if less or equal
+
 AND                   | BestFriend     | Logical AND
+
 OR                    | Choice         | Logical OR
+
 NOT                   | Lies           | Logical NOT
+
 Print                 | ShowGadget     | Output to screen
+
 Input                 | 4DPocket       | Read user input
+
 Return                | ReturnCheck    | Return from function
+
 Absolute              | Reality        | Absolute value
+
 Length                | SizeMeter      | Get size or length
+
 If                    | IfOnlyPhone    | Conditional branch
+
 Else                  | Otherwise      | Alternative branch
+
 While                 | TimeLoop       | Repeat while true
+
 For                   | TimeMachine    | Iterative loop
+
 Break                 | AnywhereDoor   | Exit loop
+
 Continue              | SkipTime       | Next iteration
 
 💻 How to Use
